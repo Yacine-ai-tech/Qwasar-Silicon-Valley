@@ -1,0 +1,2 @@
+find . ! -type d \( -iname \*\~ -o -iname \#\*\# \) -print -exec rm {} \;
+#find . ! -type d \( -iname \#\*\# -o -iname \*\~ \) -print -exec rm {} \;
