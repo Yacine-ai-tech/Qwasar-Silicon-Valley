@@ -22,6 +22,9 @@ Introduction to programming with Python, covering basic algorithms and data mani
 - **[python-quest06](./Preseason%20Data/python-quest06-dev/python-quest06)** - Advanced concepts
 - **[quest00](./Preseason%20Data/quest00-dev/quest00)** - Introduction quest
 
+#### 📜 Certificate
+[Certificate of completion for Preseason Data track - Python Fundamentals](./certificates/preseason-data-certificate.pdf)
+
 ### 🔧 Season 1 Arc 1 (C Programming & Algorithms)
 Systems programming and low-level implementation challenges in C.
 
@@ -34,6 +37,9 @@ Systems programming and low-level implementation challenges in C.
 - **[quest03](./Season%201%20Arc%201/quest03-dev/quest03)** - Pointers and arrays
 - **[quest04](./Season%201%20Arc%201/quest04-dev/quest04)** - Advanced C concepts
 - **[quest05](./Season%201%20Arc%201/quest05-dev/quest05)** - Data structures in C
+
+#### 📜 Certificate
+[Certificate of completion for Season 1 Arc 1 - C Programming & Algorithms](./certificates/season1-arc1-certificate.pdf)
 
 ### 📊 Season 2 (Data Science & Machine Learning)
 Data analysis, visualization, and machine learning projects.
@@ -53,6 +59,9 @@ Data analysis, visualization, and machine learning projects.
 - **[my_open_the_iris](./Season%202%20Data%20Science/my_open_the_iris-dev)** - Iris dataset analysis
 - **[my_select_query](./Season%202%20Data%20Science/my_select_query-dev)** - SQL query implementation
 - **[my_tu_verras](./Season%202%20Data%20Science/my_tu_verras-dev)** - Data visualization project
+
+#### 📜 Certificate
+[Certificate of completion for Season 2 - Data Science & Machine Learning](./certificates/season2-data-science-certificate.pdf)
 
 ## 🛠️ Technologies & Skills
 
