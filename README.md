@@ -23,7 +23,7 @@ Introduction to programming with Python, covering basic algorithms and data mani
 - **[quest00](./Preseason%20Data/quest00-dev/quest00)** - Introduction quest
 
 #### 📜 Certificate
-Certificate of completion for Preseason Data track - Python Fundamentals
+[Certificate of completion for Preseason Data track - Python Fundamentals](./certificates/preseason-data-certificate.pdf)
 
 ### 🔧 Season 1 Arc 1 (C Programming & Algorithms)
 Systems programming and low-level implementation challenges in C.
@@ -39,7 +39,7 @@ Systems programming and low-level implementation challenges in C.
 - **[quest05](./Season%201%20Arc%201/quest05-dev/quest05)** - Data structures in C
 
 #### 📜 Certificate
-Certificate of completion for Season 1 Arc 1 - C Programming & Algorithms
+[Certificate of completion for Season 1 Arc 1 - C Programming & Algorithms](./certificates/season1-arc1-certificate.pdf)
 
 ### 📊 Season 2 (Data Science & Machine Learning)
 Data analysis, visualization, and machine learning projects.
@@ -61,7 +61,7 @@ Data analysis, visualization, and machine learning projects.
 - **[my_tu_verras](./Season%202%20Data%20Science/my_tu_verras-dev)** - Data visualization project
 
 #### 📜 Certificate
-Certificate of completion for Season 2 - Data Science & Machine Learning
+[Certificate of completion for Season 2 - Data Science & Machine Learning](./certificates/season2-data-science-certificate.pdf)
 
 ## 🛠️ Technologies & Skills
 
