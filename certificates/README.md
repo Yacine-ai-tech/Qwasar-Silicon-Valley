@@ -1,20 +1,20 @@
 # Certificates
 
-This directory contains completion certificates for each learning track at Qwasar Silicon Valley.
+This directory contains certificate verification links for each learning track at Qwasar Silicon Valley.
 
-## How to Add Certificates
+## Certificate Verification Links
 
-To add your certificate PDFs to this repository:
+All certificates are verified online through Qwasar's certificate verification system:
 
-1. Place your PDF certificates in this directory with the following naming convention:
-   - `preseason-data-certificate.pdf` - for Preseason Data track
-   - `season1-arc1-certificate.pdf` - for Season 1 Arc 1 track
-   - `season2-data-science-certificate.pdf` - for Season 2 Data Science track
+### Preseason Data - Python Fundamentals
+[Verify Certificate](https://upskill.us.qwasar.io/certificates/MTM0OS1zZXlib3Utc195LWp1bC0yMDIxLTMwLTdjNmU=)
 
-2. The certificates will be automatically linked from the main README.md
+### Season 1 Arc 1 - C Programming & Algorithms  
+[Verify Certificate](https://upskill.us.qwasar.io/certificates/MTIwMy1zZXlib3Utc195LW1hci0yMDIxLTExLWQzOWE=)
 
-## Current Certificates
+### Season 2 - Data Science & Machine Learning
+[Verify Certificate](https://upskill.us.qwasar.io/certificates/MTM1Mi1zZXlib3Utc195LWp1bC0yMDIxLTMwLTVlYWU=)
 
-- Preseason Data: `preseason-data-certificate.pdf`
-- Season 1 Arc 1: `season1-arc1-certificate.pdf`
-- Season 2 Data Science: `season2-data-science-certificate.pdf`
+## About Certificate Verification
+
+These verification links provide online validation of course completion through Qwasar Silicon Valley's official certificate verification system. Each link is unique and cannot be forged, ensuring authenticity of the credentials.
